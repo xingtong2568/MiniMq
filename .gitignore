@@ -3,7 +3,7 @@
 *.out
 
 # 可执行文件
-MiniMq
+/MiniMq/minimq
 
 # 调试文件
 core
