@@ -1,0 +1,17 @@
+# 编译产物
+*.o
+*.out
+
+# 可执行文件
+MiniMq
+
+# 调试文件
+core
+core.*
+
+# 编辑器
+.vscode/
+
+# 临时文件
+*.swp
+*.swo
